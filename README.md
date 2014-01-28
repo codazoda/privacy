@@ -4,7 +4,6 @@ PRIVACY POLICY
 This privacy policy governs your use of the software application Random Riff (“Application”) that was created by Joel Dare.
 
 What information does the Application obtain and how is it used?
-================================================================
 
 User Provided Information
 
