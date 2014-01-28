@@ -28,9 +28,9 @@ if we or the app are involved in a merger, acquisition, or sale of all or a port
 
 You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-Data Retention Policy, Managing Your Information
+**Data Retention Policy, Managing Your Information**
 
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 5 years and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
 **Children**
 
