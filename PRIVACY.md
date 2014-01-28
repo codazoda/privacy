@@ -26,7 +26,7 @@ if we or the app are involved in a merger, acquisition, or sale of all or a port
 
 **Opt Out Rights**
 
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email.
+You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 Data Retention Policy, Managing Your Information
 
